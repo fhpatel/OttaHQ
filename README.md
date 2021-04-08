@@ -55,10 +55,13 @@ We don't think it's fair to ask you to build something with a UI, as we know thi
 
 **Task**: Tell us about the biggest challenge you faced in building the above.
 
-**Answer**: _[The biggest challenge that I faced when redesigning the category page was trying to cater for the various stakeholders coupled with aiming to improve user conversion on the page itself. As can be seen in the screenshot of the page prior to development there was a lot to be desired from the list of offers at the bottom, which only saw about 10% of the overall interactions on the page. 
-Trying to bring utility to users such that there was a “journey of exploration” that they would want to take was an incredibly difficult and ambiguous task. However, through rapidly experimenting with different filters, measuring engagement rates as set primary & secondary filters were put in place. 
-Regarding the placements that sit at the top of the page, it was a difficult task to meet the merchant team requirements yet clean it up such that it wouldn’t take up the majority of real estate. Using split test and focus groups I built out a system which would allow the site management team to display at most 3 rows of promotions. This was technically difficult to build as it required development across multiple codebases in a plethora of languages. Admittedly there were quite a few things that went wrong in the early stages of development as testing was just something that was done on the fly. However, towards the end I created a robust testing framework that was followed by the rest of my pod when working on this. 
-Overall engagement with the page increased by 25% and there is now a 40:60 split between the placements at the top of the page and the list of offers.]_
+**Answer**: _The biggest challenge that I faced when redesigning the category page was trying to cater for the various stakeholders coupled with aiming to improve user conversion on the page itself. As can be seen in the screenshot of the page prior to development there was a lot to be desired from the list of offers at the bottom, which only saw about 10% of the overall interactions on the page._ 
+
+_Trying to bring utility to users such that there was a “journey of exploration” that they would want to take was an incredibly difficult and ambiguous task. However, through rapidly experimenting with different filters, measuring engagement rates as set primary & secondary filters were put in place._
+
+_Regarding the placements that sit at the top of the page, it was a difficult task to meet the merchant team requirements yet clean it up such that it wouldn’t take up the majority of real estate. Using split test and focus groups I built out a system which would allow the site management team to display at most 3 rows of promotions. This was technically difficult to build as it required development across multiple codebases in a plethora of languages. Admittedly there were quite a few things that went wrong in the early stages of development as testing was just something that was done on the fly. However, towards the end I created a robust testing framework that was followed by the rest of my pod when working on this._
+
+_Overall engagement with the page increased by 25% and there is now a 40:60 split between the placements at the top of the page and the list of offers._
 
 ## Submission
 
