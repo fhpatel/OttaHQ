@@ -50,7 +50,7 @@ We don't think it's fair to ask you to build something with a UI, as we know thi
 **Answer**: _[Add a link to repo/website/screenshot here]_
 ![Before](/screenshots/before.png "Before")
 ![After](/screenshots/screenshot_1.png "After 1")
-![After](/screenshots/screenshot_1.png "After 2")
+![After](/screenshots/screenshot_2.png "After 2")
 
 
 **Task**: Tell us about the biggest challenge you faced in building the above.
