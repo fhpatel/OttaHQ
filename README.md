@@ -67,8 +67,8 @@ _Overall engagement with the page increased by 25% and there is now a 40:60 spli
 
 Once you've completed all of the above tasks, make sure:
 
-- [ ] You've committed all of the code used, and your edited answers, to the `master` branch
-- [ ] You've pushed the changes to your repo
-- [ ] You add `XavKearney` and `shfranklin` as contributors for your personal repo, and send a link to the repo in an email to us
+- [X] You've committed all of the code used, and your edited answers, to the `master` branch
+- [X] You've pushed the changes to your repo
+- [X] You add `XavKearney` and `shfranklin` as contributors for your personal repo, and send a link to the repo in an email to us
 
 Good luck!
